@@ -1,0 +1,15 @@
+C:\Users\Petr\Dropbox\Programování\C#\Vlastní tvorba\Evidence_pojisteni\Evidence_pojisteni\bin\Debug\net6.0\Evidence_pojisteni.exe
+C:\Users\Petr\Dropbox\Programování\C#\Vlastní tvorba\Evidence_pojisteni\Evidence_pojisteni\bin\Debug\net6.0\Evidence_pojisteni.deps.json
+C:\Users\Petr\Dropbox\Programování\C#\Vlastní tvorba\Evidence_pojisteni\Evidence_pojisteni\bin\Debug\net6.0\Evidence_pojisteni.runtimeconfig.json
+C:\Users\Petr\Dropbox\Programování\C#\Vlastní tvorba\Evidence_pojisteni\Evidence_pojisteni\bin\Debug\net6.0\Evidence_pojisteni.dll
+C:\Users\Petr\Dropbox\Programování\C#\Vlastní tvorba\Evidence_pojisteni\Evidence_pojisteni\bin\Debug\net6.0\Evidence_pojisteni.pdb
+C:\Users\Petr\Dropbox\Programování\C#\Vlastní tvorba\Evidence_pojisteni\Evidence_pojisteni\obj\Debug\net6.0\Evidence_pojisteni.csproj.AssemblyReference.cache
+C:\Users\Petr\Dropbox\Programování\C#\Vlastní tvorba\Evidence_pojisteni\Evidence_pojisteni\obj\Debug\net6.0\Evidence_pojisteni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petr\Dropbox\Programování\C#\Vlastní tvorba\Evidence_pojisteni\Evidence_pojisteni\obj\Debug\net6.0\Evidence_pojisteni.AssemblyInfoInputs.cache
+C:\Users\Petr\Dropbox\Programování\C#\Vlastní tvorba\Evidence_pojisteni\Evidence_pojisteni\obj\Debug\net6.0\Evidence_pojisteni.AssemblyInfo.cs
+C:\Users\Petr\Dropbox\Programování\C#\Vlastní tvorba\Evidence_pojisteni\Evidence_pojisteni\obj\Debug\net6.0\Evidence_pojisteni.csproj.CoreCompileInputs.cache
+C:\Users\Petr\Dropbox\Programování\C#\Vlastní tvorba\Evidence_pojisteni\Evidence_pojisteni\obj\Debug\net6.0\Evidence_pojisteni.dll
+C:\Users\Petr\Dropbox\Programování\C#\Vlastní tvorba\Evidence_pojisteni\Evidence_pojisteni\obj\Debug\net6.0\refint\Evidence_pojisteni.dll
+C:\Users\Petr\Dropbox\Programování\C#\Vlastní tvorba\Evidence_pojisteni\Evidence_pojisteni\obj\Debug\net6.0\Evidence_pojisteni.pdb
+C:\Users\Petr\Dropbox\Programování\C#\Vlastní tvorba\Evidence_pojisteni\Evidence_pojisteni\obj\Debug\net6.0\Evidence_pojisteni.genruntimeconfig.cache
+C:\Users\Petr\Dropbox\Programování\C#\Vlastní tvorba\Evidence_pojisteni\Evidence_pojisteni\obj\Debug\net6.0\ref\Evidence_pojisteni.dll
